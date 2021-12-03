@@ -1,6 +1,6 @@
 # E-Commerce-Shipping
 About the Project
-  ## This is an End-to-End Data Science Project built in order to help an International E-commerce Company to predict whether their product will be delivered on the committed       ##  Delivery Time or not, based on certain parameters.
+## This is an End-to-End Data Science Project built in order to help an International E-commerce Company to predict whether their product will be delivered on the committed   Delivery Time or not, based on certain parameters.
 ### The Project has been deployed on Heroku Cloud
 * ## Technologies Used
 
