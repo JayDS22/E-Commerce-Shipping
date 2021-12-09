@@ -9,7 +9,15 @@ About the Project
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
 
 
+* ## A glimpse of the Project
 
+### 1) If the order reaches on time
+
+![alt text](https://github.com/JayDS22/E-Commerce-Shipping/blob/main/not_on_time.PNG)
+
+### 2) If the order doesn't reach on time
+
+![alt text](https://github.com/JayDS22/E-Commerce-Shipping/blob/main/on_time.PNG)
 ---
 
 * ## Want to create your own E-commerce Shipping Project?
